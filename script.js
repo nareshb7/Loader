@@ -9,5 +9,3 @@ setTimeout(()=>{
 content.style.display = 'block'
 loader.style.display = 'none'
 }, 8000)
-
-content.innerHTML += `Hii this is text from script`
