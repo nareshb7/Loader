@@ -87,3 +87,12 @@ section .loader span::before {
         border-right-color: transparent;
     }
 }
+
+.blur-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 50px;
+    color: #fff;
+}
